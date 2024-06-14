@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    text-align: center;
+    margin-top: 50vh;
+}
+
+.btn {
+    background-color: rgb(34, 34, 34);
+    font-size: 1.5rem;
+    color: white;
+    border-radius: 5px;
+    padding: 2rem;
+    margin: 3rem;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn:hover {
+    transition-duration: 2s;
+    background-color: rgb(227, 59, 63);
+    padding: 3rem;
+}
